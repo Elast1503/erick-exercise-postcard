@@ -1,0 +1,27 @@
+body {
+	background: black;
+}
+.postcard {
+	background-color: white;
+	width: 450px;
+	height: auto;
+	margin: auto;
+	padding: 10px;
+}
+.postcard-header {
+	display: flex;
+	justify-content: space-between;
+}
+img {
+	width: 60px;
+}
+.postcard-body {
+	display: flex;
+	justify-content: space-between;
+}
+.postcard-footer {
+	text-align: center;
+}
+.body-right {
+	margin-top: 10px;
+}
